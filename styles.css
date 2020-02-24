@@ -1,0 +1,38 @@
+
+#logo{ 
+    color: white;
+    background-image: url(./assets/backgrounds/h_img.jpg);
+    padding: 250px; 
+    }.what{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        font-family: 'Satisfy', cursive;}
+     .what{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        font-family: 'Satisfy', cursive;
+    }
+    .Do{
+        width: 400px;}
+    #what_head{
+            text-align: center;
+            font-family: 'Vidaloka', serif;
+        }
+        #img{ 
+            color: white;
+            background-image: url(./assets/backgrounds/s_image.jpg);
+            background-size: cover;
+            background-repeat: no-repeat;
+            padding: 50px;
+        }
+        #contact {
+        background-image: url("assets/backgrounds/c_image.jpg");
+        }
+        .form-c {
+           height: 3em;
+        }
+        .wb{
+            display: none;
+        }
