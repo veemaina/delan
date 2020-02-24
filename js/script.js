@@ -24,4 +24,8 @@ $(document).ready(function () {
        $("#sonia").show()
    })
 })
+$(".button").click(function () {
+    var name = document.getElementById('mce-Email').Value
+    alert('Hey' + "thank you for contacting us.We will get back to you")
+})
 
