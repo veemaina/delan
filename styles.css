@@ -25,10 +25,16 @@
             background-image: url(./assets/backgrounds/s_image.jpg);
             background-size: cover;
             background-repeat: no-repeat;
-            padding: 50px;
+            padding: ;
         }
         #contact {
+            color: white;
         background-image: url("assets/backgrounds/c_image.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        padding:250px;
+        height: 180px;
+        
         }
         .form-c {
            height: 3em;
@@ -36,3 +42,4 @@
         .wb{
             display: none;
         }
+        
