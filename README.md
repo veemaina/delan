@@ -1,9 +1,9 @@
 ## Author 
 
-Violet Waithera Maina
+Violet Waithera Maina.
 
 ## Project Name 
-Delani Studio
+Delani Studio.
 
 ## Description
 
